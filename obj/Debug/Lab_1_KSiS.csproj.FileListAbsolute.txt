@@ -1,0 +1,14 @@
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.exe.config
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.exe
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.pdb
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.exe
+D:\2 курс\4 семестр\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.pdb
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.exe.config
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.exe
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\bin\Debug\Lab_1_KSiS.pdb
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.csproj.AssemblyReference.cache
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.csproj.CoreCompileInputs.cache
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.exe
+D:\2_year\4_semester\КСиС\Lab_1_KSiS\obj\Debug\Lab_1_KSiS.pdb
